@@ -1,16 +1,46 @@
-# React + Vite
+# 🌿 Wellnex – Modern Wellness & Fitness Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Wellnex** is a modern wellness and fitness web app built with **React + Vite**, styled using **Tailwind CSS**, and powered by **GSAP animations** for smooth, elegant interactions.  
+It’s designed to provide a clean, responsive, and interactive experience for users exploring fitness, health, and lifestyle content.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ⚡ **Fast & Lightweight** – Built on React + Vite for blazing performance.  
+- 🎨 **Modern UI** – Tailwind CSS for a clean, responsive layout.  
+- 🌀 **Smooth Animations** – GSAP integrated for engaging motion effects.  
+- 📱 **Fully Responsive** – Optimized for desktop, tablet, and mobile devices.  
+- 💬 **Modular Components** – Reusable and scalable React components.  
+- 🧩 **Easy to Customize** – Simple folder structure and Tailwind configuration.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Technology | Purpose |
+|-------------|----------|
+| **React + Vite** | Frontend Framework & Build Tool |
+| **Tailwind CSS (CDN or NPM)** | Styling & Layout |
+| **GSAP** | Animations |
+| **React Router DOM** | Navigation (optional) |
+
+## 📂 Folder Structure
+
+wellnex/
+│
+├── public/
+│ ├── images/
+│ └── favicon.ico
+│
+├── src/
+│ ├── assets/ # Images, fonts, icons
+│ ├── components/ # Header, Footer, Hero, etc.
+│ ├── pages/ # Home, About, Contact, etc.
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+│
+├── package.json
+├── vite.config.js
+└── README.m
