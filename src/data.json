@@ -1,0 +1,255 @@
+{
+  "company": {
+    "name": "Wellnex Systems",
+    "tagline": "Wellness, Reimagined for the Next Generation",
+    "description": "A unified digital ecosystem empowering individuals, gyms, and wellness providers through cutting edge HealthTech and fitness innovation.",
+    "founded": "2024",
+    "location": "Global"
+  }, 
+  "hero": {
+    "backgroundImage": "https://media.visro.ai/aifaceswap-demo/gen-temp/2025-10-22/raw_9c997e119a315f7815ea69fd0bde3705.png",
+    "heading": "Wellnex Systems",
+    "subheading": "Wellness, Reimagined for the Next Generation",
+    "ctaButtons": [
+      {
+        "text": "Join the Movement",
+        "type": "primary",
+        "action": "trial"
+      },
+      {
+        "text": "Explore Our Apps",
+        "type": "secondary",
+        "action": "demo"
+      }
+    ]
+  },
+  "about": {
+    "title": "Where Wellness Meets What's Next",
+    "description": "At Wellnex Systems, we believe the future of health and fitness lies in intelligent, integrated, and deeply human-centered technology. Born from the fusion of 'Wellness' and 'Next,' our platform is designed to elevate how people connect with their bodies, minds, and communities—anytime, anywhere. We're not just building apps. We're building a movement.",
+    "trustIndicators": [
+      {
+        "icon": "💡",
+        "title": "Innovation Driven",
+        "description": "Cutting-edge HealthTech and fitness innovation"
+      },
+      {
+        "icon": "🤝",
+        "title": "Community Focused",
+        "description": "Connecting individuals, gyms, and wellness providers"
+      },
+      {
+        "icon": "🌐",
+        "title": "Unified Ecosystem",
+        "description": "Digital ecosystem for comprehensive wellness"
+      },
+      {
+        "icon": "🚀",
+        "title": "Future Ready",
+        "description": "Built for the next generation of wellness"
+      }
+    ],
+    "parallaxImage": "https://media.visro.ai/aifaceswap-demo/gen-temp/2025-10-22/raw_829344fe45145d2d4c43e7f4bf4529e6.png"
+  },
+  "apps": {
+    "title": "Our Flagship Apps",
+    "subtitle": "Comprehensive wellness solutions designed for modern living",
+    "apps": [
+      {
+        "name": "SoulWhispers",
+        "category": "Mental Wellness",
+        "description": "Your Pocket-Sized Wellness Companion. SoulWhispers is a mindfulness and emotional wellness app designed to help users reconnect with their inner calm. Through guided meditations, reflective journaling, and AI-powered mood tracking, SoulWhispers nurtures mental clarity and emotional resilience in a fast-paced world.",
+        "features": [
+          "Telehealth and diagnostics",
+          "Mood journaling with AI insights",
+          "Personalized providers",
+          "Seamless booking & check-in for consultation sessions",
+          "Guided meditations",
+          "Emotional resilience tools"
+        ],
+        "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2120&q=80",
+        "downloadUrl": "#",
+        "rating": 4.8,
+        "downloads": "50K+"
+      },
+      {
+        "name": "GymKey",
+        "category": "Fitness Access",
+        "description": "Smart Access to Fitness, Anytime. GymKey is your digital passport to fitness freedom. Whether you're a gym owner or a fitness enthusiast, GymKey connects users with partner gyms, tracks workouts, and simplifies access—all from a single app.",
+        "features": [
+          "Seamless check-in at partner gyms",
+          "Workout tracking and performance analytics",
+          "Membership management for gym owners",
+          "Real-time class schedules and bookings",
+          "Digital gym access",
+          "Fitness community network"
+        ],
+        "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2140&q=80",
+        "downloadUrl": "#",
+        "rating": 4.9,
+        "downloads": "100K+"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Ayesha R.",
+      "role": "SoulWhispers User",
+      "location": "Karachi",
+      "rating": 5,
+      "text": "SoulWhispers helped me find calm in chaos. It's like therapy in my pocket.",
+      "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "name": "Imran M.",
+      "role": "Gym Owner",
+      "location": "Lahore",
+      "rating": 5,
+      "text": "GymKey has transformed how I manage my gym. My members love the convenience.",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    }
+  ],
+  "whyWellnex": {
+    "title": "Why Wellnex?",
+    "subtitle": "The pillars that define our approach to wellness innovation",
+    "features": [
+      {
+        "icon": "🔄",
+        "title": "Integrated Wellness",
+        "description": "Physical, mental, and emotional health in one ecosystem"
+      },
+      {
+        "icon": "🤖",
+        "title": "AI-Driven Personalization",
+        "description": "Smart recommendations tailored to your goals"
+      },
+      {
+        "icon": "📊",
+        "title": "Scalable for Providers",
+        "description": "From boutique studios to national gym chains"
+      },
+      {
+        "icon": "🔮",
+        "title": "Built for the Future",
+        "description": "Cloud-native, mobile-first, and privacy-conscious"
+      }
+    ]
+  },
+  "futurePlatform": {
+    "title": "What's Coming Next",
+    "subtitle": "We're building a unified Wellnex Platform that brings together fitness, nutrition, mental health, and diagnostics into a single intelligent dashboard. Whether you're a user, trainer, or clinic—Wellnex will be your digital wellness command center.",
+    "timeline": [
+      {
+        "quarter": "Coming Soon",
+        "title": "Wearable Integration",
+        "description": "Seamless connection with fitness trackers, smartwatches, and health monitoring devices for comprehensive health data",
+        "status": "planned",
+        "features": ["Smartwatch sync", "Health metrics tracking", "Real-time wellness data"]
+      },
+      {
+        "quarter": "Coming Soon",
+        "title": "Nutrition and Meal Planning",
+        "description": "AI-powered meal planning and nutrition tracking with personalized dietary recommendations",
+        "status": "planned",
+        "features": ["Personalized meal plans", "Nutrition tracking", "Dietary guidance"]
+      },
+      {
+        "quarter": "Coming Soon",
+        "title": "Corporate Wellness Dashboards",
+        "description": "Comprehensive wellness management platform for organizations and corporate wellness programs",
+        "status": "planned",
+        "features": ["Employee wellness programs", "Corporate analytics", "Wellness challenges"]
+      }
+    ]
+  },
+  "earlyAccess": {
+    "title": "Be Part of the Future",
+    "subtitle": "Get early access to these exciting features and help shape the future of wellness technology",
+    "description": "Join our exclusive early access program to experience the full Wellnex platform before anyone else.",
+    "userTypes": [
+      {
+        "id": "individual",
+        "label": "Wellness Enthusiast",
+        "description": "Individual focused on personal wellness journey"
+      },
+      {
+        "id": "trainer",
+        "label": "Fitness Professional",
+        "description": "Personal trainer or fitness instructor"
+      },
+      {
+        "id": "gym-owner",
+        "label": "Gym/Facility Owner",
+        "description": "Owner or manager of fitness facilities"
+      },
+      {
+        "id": "healthcare",
+        "label": "Healthcare Provider",
+        "description": "Medical or wellness clinic professional"
+      }
+    ]
+  },
+  "stayConnected": {
+    "title": "Stay Connected",
+    "subtitle": "Be the first to experience the full Wellnex platform",
+    "description": "Join our community for the latest updates, wellness insights, and exclusive content.",
+    "stats": [
+      {
+        "number": "50K+",
+        "label": "Active Users",
+        "icon": "👥"
+      },
+      {
+        "number": "100+",
+        "label": "Partner Gyms",
+        "icon": "🏋️"
+      },
+      {
+        "number": "98%",
+        "label": "Satisfaction Rate",
+        "icon": "⭐"
+      }
+    ]
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/wellnexsystems",
+    "twitter": "https://twitter.com/wellnexsystems",
+    "instagram": "https://instagram.com/wellnexsystems",
+    "linkedin": "https://linkedin.com/company/wellnexsystems",
+    "youtube": "https://youtube.com/wellnexsystems"
+  },
+  "footer": {
+    "company": {
+      "name": "Wellnex Systems",
+      "description": "Empowering Wellness Through Technology",
+      "address": "Global Headquarters",
+      "phone": "+92 300 1234567",
+      "email": "info@wellnexsystems.com"
+    },
+    "links": {
+      "product": [
+        { "name": "SoulWhispers", "url": "#" },
+        { "name": "GymKey", "url": "#" },
+        { "name": "Wellnex Platform", "url": "#" },
+        { "name": "Features", "url": "#" }
+      ],
+      "company": [
+        { "name": "About Us", "url": "#" },
+        { "name": "Our Mission", "url": "#" },
+        { "name": "Careers", "url": "#" },
+        { "name": "Partners", "url": "#" }
+      ],
+      "support": [
+        { "name": "Help Center", "url": "#" },
+        { "name": "Contact Us", "url": "#" },
+        { "name": "Community", "url": "#" },
+        { "name": "Documentation", "url": "#" }
+      ],
+      "legal": [
+        { "name": "Privacy Policy", "url": "#" },
+        { "name": "Terms of Service", "url": "#" },
+        { "name": "Cookie Policy", "url": "#" },
+        { "name": "Compliance", "url": "#" }
+      ]
+    }
+  }
+}
